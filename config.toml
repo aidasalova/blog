@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+title = "Aida Salova"
+theme = "ananke"
+SectionPagesMenu = "main"
+preserveTaxonomyNames = true
+paginate = 6
+googleAnalytics = ""
+enableRobotsTXT = true
+#themesDir = "../.."
+resourceDir = "../resources"
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+featured_image = "img/space1.jpg"
+linkedin = "https://www.linkedin.com/in/aida-salova-6128a6104/"
+
