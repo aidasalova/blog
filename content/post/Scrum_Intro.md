@@ -5,7 +5,6 @@ subtitle: "A quick introduction to Scrum"
 date: 2021-02-21T12:00:00
 author: "Aida Salova"
 draft: True
-categories: "Business"
 tags: 
     - 500 words
     - Product
