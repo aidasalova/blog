@@ -4,7 +4,7 @@ title: "What is Scrum in 500 Words"
 subtitle: "A quick introduction to Scrum"
 date: 2021-02-21T12:00:00
 author: "Aida Salova"
-draft: True
+draft: False
 tags: 
     - 500 words
     - Product

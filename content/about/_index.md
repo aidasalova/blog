@@ -8,7 +8,7 @@ Welcome to my blog! It is going to cover a variety of topics about business, tec
 
 I would define myself as learner and doer. 
 
-I have worked for several years managing talented teams, ideating and owning technical solutions to create efficient processes and leading cross-functional projects. I am an MBA student, and I am also actively learning SQL and Python anspending many after-work hours meditating over the code.
+I have worked for several years managing talented teams, ideating and owning technical solutions to create efficient processes and leading cross-functional projects. I am an MBA student, and I am also actively learning SQL and Python and spending many after-work hours meditating over the code.
 
 I am passionate about creating clean processes, intuitive user journeys and value-maximizing products driven by quantitative and qualitative analysis, method and pragmatic approach.
 
