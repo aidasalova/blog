@@ -13,7 +13,8 @@ resourceDir = "../resources"
 home = ["HTML", "RSS"]
 
 [params]
-featured_image = "img/space1.jpg"
+featured_image = "img/home_page.jpg"
 linkedin = "https://www.linkedin.com/in/aida-salova-6128a6104/"
+custom_css = ["css/custom.css"]
 
 
