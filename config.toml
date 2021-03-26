@@ -1,5 +1,5 @@
 baseURL = "https://www.aidasalova.com/"
-title = "Aida Salova"
+title = "Let me get this right"
 theme = "ananke"
 SectionPagesMenu = "main"
 preserveTaxonomyNames = true
@@ -13,7 +13,7 @@ resourceDir = "../resources"
 home = ["HTML", "RSS"]
 
 [params]
-featured_image = "img/home_page.jpg"
+featured_image = "img/puzzle.jpg"
 linkedin = "https://www.linkedin.com/in/aida-salova-6128a6104/"
 custom_css = ["css/custom.css"]
 

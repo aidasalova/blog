@@ -1,10 +1,10 @@
 ---
 title: "About"
-featured_image: "img/about_image.jpg"
+featured_image: "img/background.jpg"
 description: "Aida Salova"
 ---
 
-Welcome to my blog! It is going to cover a variety of topics about business, tech and everything in-between.
+Welcome to my page! It is going to cover a variety of topics about management, product, technology and everything in-between.
 
 I would define myself as learner and doer. 
 
@@ -17,3 +17,8 @@ I am also a firm believer in Clayton Christensen's idea that "Management is the 
 Born and raised in Kazakhstan, I've lived in sunny Barcelona for over a decade. I love beach and mountain walks and am an amateur (alas!) piano-player. 
 
 Visit my LinkedIn page [here](https://www.linkedin.com/in/aida-salova-6128a6104/). 
+
+
+
+*Image credits:
+Photos by Hans-Peter Gauster, Aaron Burden and Terry Vlisidis on Unsplash* 

@@ -5,3 +5,11 @@
 .mt5{
     margin-top: 0px;
 }
+
+.nested-img img {
+    width: auto;
+    max-width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

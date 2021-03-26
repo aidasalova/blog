@@ -1,4 +1,4 @@
 ---
 title: "Posts"
-featured_image: "img/posts_image.jpg"
+featured_image: "img/invention.jpg"
 ---
