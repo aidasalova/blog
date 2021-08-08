@@ -8,15 +8,15 @@ Welcome to my page! It is going to cover a variety of topics about management, p
 
 I would define myself as learner and doer. 
 
-I have worked for several years managing talented teams, ideating and owning technical solutions to create efficient processes and leading cross-functional projects. I am an MBA student, and I am also actively learning SQL and Python and spending many after-work hours meditating over the code.
+I have worked for several years managing talented teams, ideating and owning products to create efficient processes and leading cross-functional projects. I am an MBA candidate about to complete the program.
 
-I am passionate about creating clean processes, intuitive user journeys and value-maximizing products driven by quantitative and qualitative analysis, method and pragmatic approach.
+I am passionate about creating clean processes, intuitive user journeys and value-maximizing products driven by quantitative and qualitative analysis, research methodologies and pragmatic approach.
 
-I am also a firm believer in Clayton Christensen's idea that "Management is the most noble of professions if it's practiced well". Helping others "learn and grow, take responsibility and be recognized for achievement, and contribute to the success of a team" is my everyday goal.
+I am also a firm believer in self-organizing teams, in building trustful relationships and designing opportunities for collaboration and decision-making
 
 Born and raised in Kazakhstan, I've lived in sunny Barcelona for over a decade. I love beach and mountain walks and am an amateur (alas!) piano-player. 
 
-Visit my LinkedIn page [here](https://www.linkedin.com/in/aida-salova-6128a6104/). 
+Visit my LinkedIn page [here](https://www.linkedin.com/in/aidasalova/). 
 
 
 
