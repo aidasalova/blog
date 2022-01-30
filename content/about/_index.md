@@ -8,11 +8,11 @@ Welcome to my page! It is going to cover a variety of topics about management, p
 
 I would define myself as learner and doer. 
 
-I have worked for several years driving product creation and value maximization as well as managing talented teams. I hold a degree in Psychology and an MBA.
+I am passionate about creating amazing products, intuitive user journeys and clean processes driven by quantitative and qualitative analysis, research methodologies and pragmatic approach.
 
-I am passionate about creating clean processes, intuitive user journeys and value-bringing products driven by quantitative and qualitative analysis, research methodologies and pragmatic approach.
+I am also a firm believer in self-organizing teams, in building trustful relationships and designing opportunities for collaboration and decision-making.
 
-I am also a firm believer in self-organizing teams, in building trustful relationships and designing opportunities for collaboration and decision-making
+I hold a degree in Psychology and an MBA.
 
 Born and raised in Kazakhstan, I've lived in sunny Barcelona for over a decade. I love beach and mountain walks and am an amateur piano-player. 
 
